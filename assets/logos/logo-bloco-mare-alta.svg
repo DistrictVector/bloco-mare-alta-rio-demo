@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" role="img" aria-label="Bloco Maré Alta">
+  <rect width="96" height="96" rx="18" fill="#14211f"/>
+  <circle cx="48" cy="48" r="30" fill="#f1c232"/>
+  <path d="M20 55c11-11 20-11 28 0s17 11 28 0" fill="none" stroke="#0f7a55" stroke-width="8" stroke-linecap="round"/>
+  <path d="M33 37h30" stroke="#df5b4f" stroke-width="8" stroke-linecap="round"/>
+  <circle cx="35" cy="64" r="5" fill="#1457a3"/>
+  <circle cx="61" cy="64" r="5" fill="#1457a3"/>
+</svg>
